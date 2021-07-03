@@ -21,7 +21,9 @@ The project Template can be used to build bigger projects
 ### https://zs1ok.csb.app/
 This URL is Basically from sandbox hosted 
 
-## Prerequisites {If you are using Sandbox then no need for any Installation You have to just go with the codesandbox website, and start a new project with react. If you are going to work on local server, please follow the following: }
+## Prerequisites 
+
+If you are using Sandbox then no need to install anything. You can just go with the codesandbox website, and start a new project with react after that you can start your project. If you are going to work on local server, please follow the following: 
 
 ### Install Node JS
 Refer to https://nodejs.org/en/ to install nodejs
